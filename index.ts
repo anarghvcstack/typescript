@@ -38,4 +38,4 @@ let myMap2: MapClass = {
   }
 }
 
-console.log('New change');
+console.log('New');
